@@ -1,0 +1,14 @@
+C:\Users\13608\Documents\GitHub\Find-missing-element-in-uniformly-increasing-array\bin\Debug\net8.0\Find-missing-element-in-uniformly-increasing-array.exe
+C:\Users\13608\Documents\GitHub\Find-missing-element-in-uniformly-increasing-array\bin\Debug\net8.0\Find-missing-element-in-uniformly-increasing-array.deps.json
+C:\Users\13608\Documents\GitHub\Find-missing-element-in-uniformly-increasing-array\bin\Debug\net8.0\Find-missing-element-in-uniformly-increasing-array.runtimeconfig.json
+C:\Users\13608\Documents\GitHub\Find-missing-element-in-uniformly-increasing-array\bin\Debug\net8.0\Find-missing-element-in-uniformly-increasing-array.dll
+C:\Users\13608\Documents\GitHub\Find-missing-element-in-uniformly-increasing-array\bin\Debug\net8.0\Find-missing-element-in-uniformly-increasing-array.pdb
+C:\Users\13608\Documents\GitHub\Find-missing-element-in-uniformly-increasing-array\obj\Debug\net8.0\Find-missing-element-in-uniformly-increasing-array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\13608\Documents\GitHub\Find-missing-element-in-uniformly-increasing-array\obj\Debug\net8.0\Find-missing-element-in-uniformly-increasing-array.AssemblyInfoInputs.cache
+C:\Users\13608\Documents\GitHub\Find-missing-element-in-uniformly-increasing-array\obj\Debug\net8.0\Find-missing-element-in-uniformly-increasing-array.AssemblyInfo.cs
+C:\Users\13608\Documents\GitHub\Find-missing-element-in-uniformly-increasing-array\obj\Debug\net8.0\Find-missing-element-in-uniformly-increasing-array.csproj.CoreCompileInputs.cache
+C:\Users\13608\Documents\GitHub\Find-missing-element-in-uniformly-increasing-array\obj\Debug\net8.0\Find-missing-element-in-uniformly-increasing-array.dll
+C:\Users\13608\Documents\GitHub\Find-missing-element-in-uniformly-increasing-array\obj\Debug\net8.0\refint\Find-missing-element-in-uniformly-increasing-array.dll
+C:\Users\13608\Documents\GitHub\Find-missing-element-in-uniformly-increasing-array\obj\Debug\net8.0\Find-missing-element-in-uniformly-increasing-array.pdb
+C:\Users\13608\Documents\GitHub\Find-missing-element-in-uniformly-increasing-array\obj\Debug\net8.0\Find-missing-element-in-uniformly-increasing-array.genruntimeconfig.cache
+C:\Users\13608\Documents\GitHub\Find-missing-element-in-uniformly-increasing-array\obj\Debug\net8.0\ref\Find-missing-element-in-uniformly-increasing-array.dll
