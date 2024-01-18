@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Find-missing-element-in-uniformly-increasing-array", "Find-missing-element-in-uniformly-increasing-array.csproj", "{0D40737F-18DD-4D76-97BF-7411DE35DC28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D40737F-18DD-4D76-97BF-7411DE35DC28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D40737F-18DD-4D76-97BF-7411DE35DC28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D40737F-18DD-4D76-97BF-7411DE35DC28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D40737F-18DD-4D76-97BF-7411DE35DC28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25D6EF53-00C6-48AB-AC33-6747E4C4D203}
+	EndGlobalSection
+EndGlobal

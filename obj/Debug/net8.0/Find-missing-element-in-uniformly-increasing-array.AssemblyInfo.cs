@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Find-missing-element-in-uniformly-increasing-array")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+484c839efc4959fc105cfeb56a1356ab1952116c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Find-missing-element-in-uniformly-increasing-array")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Find-missing-element-in-uniformly-increasing-array")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
